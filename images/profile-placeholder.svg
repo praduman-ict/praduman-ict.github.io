@@ -1,0 +1,13 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder illustration</title>
+  <desc id="desc">Simple circular profile illustration for the demo portfolio website.</desc>
+  <rect width="420" height="420" rx="32" fill="#E8F3F0"/>
+  <circle cx="210" cy="154" r="74" fill="#176B87"/>
+  <path d="M82 348C94 278 145 238 210 238C275 238 326 278 338 348H82Z" fill="#0F4F63"/>
+  <circle cx="182" cy="145" r="10" fill="#FFFFFF"/>
+  <circle cx="238" cy="145" r="10" fill="#FFFFFF"/>
+  <path d="M178 183C194 199 226 199 242 183" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="330" cy="90" r="34" fill="#D97706"/>
+  <path d="M318 90L327 99L345 79" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
